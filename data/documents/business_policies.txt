@@ -1,0 +1,81 @@
+BUSINESS ANALYTICS AND SALES POLICIES
+
+1. Regional Sales Review Policy
+
+Regional sales performance should be reviewed quarterly.
+A regional revenue decline greater than 15 percent compared with
+the previous quarter should trigger a management review.
+
+The review should examine:
+- Order volume
+- Product mix
+- Customer segments
+- Pricing
+- Discounts
+- Operational issues
+
+A decline in one region should not automatically be interpreted
+as evidence of a single root cause. Additional analysis should be
+performed before causal conclusions are made.
+
+2. Product Performance Policy
+
+Products showing a revenue decline greater than 20 percent
+quarter-over-quarter should be reviewed by the sales team.
+
+The review should examine:
+- Sales volume
+- Average selling price
+- Discount levels
+- Customer demand
+- Regional distribution
+
+High-revenue products should receive priority during performance
+reviews because changes in these products can have a substantial
+effect on total company revenue.
+
+3. Discount Policy
+
+Discounts should be monitored when analyzing changes in revenue
+and profitability.
+
+Increasing discounts do not automatically imply that discounts
+caused a revenue decline. Analysts should examine both the change
+in discount levels and the corresponding change in sales volume
+before making conclusions.
+
+4. Data Analysis Policy
+
+Analytical conclusions must be supported by observed data.
+
+Analysts should distinguish between:
+- Descriptive findings
+- Statistical associations
+- Predictions
+- Causal conclusions
+
+A correlation or observed contribution should not automatically
+be described as causation.
+
+5. Management Recommendation Policy
+
+Recommendations should be based on measurable evidence.
+
+When evidence is insufficient to identify a root cause, the
+recommendation should state the uncertainty and propose additional
+analysis rather than presenting an unsupported conclusion as fact.
+
+6. Quarterly Performance Policy
+
+Quarterly performance should be compared with previous quarters
+and, where possible, historical periods.
+
+A significant decline should be investigated across:
+- Regions
+- Products
+- Categories
+- Customer segments
+- Order volume
+- Pricing
+- Discounts
+- Profitability

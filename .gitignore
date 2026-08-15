@@ -1,0 +1,30 @@
+# Environment variables and secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+
+# Generated reports
+reports/final_report.txt
+reports/figures/
+
+# Processed data
+data/processed/
+
+# Chroma database
+data/processed/chroma_db/
+
+# OS files
+.DS_Store
+Thumbs.db

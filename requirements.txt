@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+openpyxl
+SQLAlchemy
+langchain
+langgraph
+langchain-openai
+chromadb
+langchain-chroma
+streamlit
+python-dotenv
+reportlab
