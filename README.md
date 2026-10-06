@@ -363,47 +363,26 @@ The LLM is used for tasks such as ambiguous tool routing and insight generation.
 
 ```text
 Autonomous_Data_Intelligence_Agent/
-│
-├── data/
-│   └── documents/
-│       └── business_policies.txt
-│
 ├── src/
 │   ├── agents/
-│   │   ├── analysis_agent.py
-│   │   ├── data_agent.py
-│   │   ├── evaluation.py
-│   │   ├── insight_agent.py
-│   │   ├── knowledge_agent.py
+│   │   ├── app.py
 │   │   ├── orchestrator.py
 │   │   ├── planner.py
+│   │   ├── data_agent.py
+│   │   ├── analysis_agent.py
+│   │   ├── knowledge_agent.py
+│   │   ├── visualization_agent.py
+│   │   ├── insight_agent.py
 │   │   ├── report_agent.py
-│   │   ├── tool_executor.py
-│   │   ├── tool_registry.py
 │   │   ├── tool_selector.py
-│   │   └── visualization_agent.py
-│   │
+│   │   ├── tool_executor.py
+│   │   └── evaluation.py
 │   ├── llm/
-│   │   └── llm_client.py
-│   │
 │   ├── rag/
-│   │   ├── ingest.py
-│   │   ├── retrieve.py
-│   │   └── evaluate_retrieval.py
-│   │
 │   ├── tools/
-│   │   ├── analysis_tool.py
-│   │   ├── cleaning_tool.py
-│   │   ├── dataset_tool.py
-│   │   ├── eda_tool.py
-│   │   ├── ml_tool.py
-│   │   ├── sql_tool.py
-│   │   └── visualization_tool.py
-│   │
 │   └── utils/
-│       └── create_dataset.py
-│
-├── app.py
+├── data/
+├── reports/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
@@ -416,7 +395,7 @@ Autonomous_Data_Intelligence_Agent/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Autonomous-Data-Intelligence-Agent.git
+git clone https://github.com/Nishanth123455/Autonomous-Data-Intelligence-Agent.git
 cd Autonomous-Data-Intelligence-Agent
 ```
 
@@ -493,7 +472,7 @@ The Streamlit interface provides a natural-language entry point to the agent sys
 Run:
 
 ```bash
-streamlit run app.py
+streamlit run src/agents/app.py
 ```
 
 The application provides:
