@@ -2,7 +2,7 @@ from pathlib import Path
 
 
 def _unwrap_analysis(analysis_results):
-    """Extract tool name and actual tool result safely."""
+
 
     data = analysis_results
 

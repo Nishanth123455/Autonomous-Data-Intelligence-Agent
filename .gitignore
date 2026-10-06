@@ -22,8 +22,14 @@ reports/figures/
 # Processed data
 data/processed/
 
+# Raw/generated dataset
+data/raw/
+
 # Chroma database
 data/processed/chroma_db/
+
+# Generated HTML exports
+exportToHTML/
 
 # OS files
 .DS_Store
