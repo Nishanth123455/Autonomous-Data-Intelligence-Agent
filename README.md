@@ -39,6 +39,19 @@ Final Report
 ```
 
 ---
+## Demo Screenshots
+
+### Main Interface
+![Agent Interface](assets/agent_interface.png)
+
+### Execution Plan & Evidence-Grounded Insights
+![Execution and Insights](assets/execution_insights.png)
+
+### Visualizations
+![Visualizations](assets/visualizations.png)
+
+### Final Report
+![Final Report](assets/final_report.png)
 
 ## Architecture
 

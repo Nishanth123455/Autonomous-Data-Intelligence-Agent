@@ -87,7 +87,7 @@ def run_orchestrator(user_question):
     print("[OK] Report generated")
 
     print("\n" + "=" * 60)
-    print(" DYNAMIC PIPELINE COMPLETE") 
+    print(" DYNAMIC PIPELINE COMPLETE")
     print("=" * 60)
 
     print("\nReport saved to:")
