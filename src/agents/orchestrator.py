@@ -75,7 +75,7 @@ def run_orchestrator(user_question):
         knowledge_results=results["knowledge"]
     )
 
-    print("✓ Insights generated")
+    print("[OK] Insights generated")
 
     print("\nRunning Report Agent...")
     report = run_report_agent(
@@ -84,10 +84,10 @@ def run_orchestrator(user_question):
         results
     )
 
-    print("✓ Report generated")
+    print("[OK] Report generated")
 
     print("\n" + "=" * 60)
-    print(" DYNAMIC PIPELINE COMPLETE")
+    print(" DYNAMIC PIPELINE COMPLETE") 
     print("=" * 60)
 
     print("\nReport saved to:")
